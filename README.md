@@ -1,7 +1,8 @@
-Anywhere I've worked, if I were asked to produce an important document and came through with pencil-on-paper writeup, I would rightly be laughed out of the room. 
-Why learn in a medium which hasn't been professionally relevant for 10 years? 
+No employer would accept important work done in paper and pencil. Clients would take one look at that and laugh you out of the room. 
 
-Full EET cirriculum managed as a Git repository. Notes in Obsidian Markdown with solutions presented in Python and visualizations in J3.  
+Why is Electrical Engineering still delivered pen on paper? 
+
+SAIT EET cirriculum managed as a Git repository. Indexed notes in Markdown, Math in LaTeX, solutions in NumPy and Pandas, visualizations in MatPlotLib and D3 JS, document exporting to .pdf, .xlsx and all Pandoc supported formats.
 
 <!---
 tr-methods/tr-methods is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
