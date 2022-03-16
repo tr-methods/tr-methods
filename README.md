@@ -1,6 +1,6 @@
-No employer would accept important work done in paper and pencil. Clients would take one look at that and laugh you out of the room. 
+No employer would accept important work done in paper and pencil. One look at that and clients would rightly laugh you out of the room. 
 
-Why is Electrical Engineering still delivered pen on paper? 
+Why is Electrical Engineering still delivered pen on paper? What accounts for this technology gap at nominal institutes of technology?
 
 SAIT EET cirriculum managed as a Git repository. Indexed notes in Markdown, Math in LaTeX, solutions in NumPy and Pandas, visualizations in MatPlotLib and D3 JS, document exporting to .pdf, .xlsx and all Pandoc supported formats.
 
