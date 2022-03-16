@@ -1,8 +1,5 @@
-No employer would accept important work done in paper and pencil. One look at that and clients would rightly laugh you out of the room. 
+Electrical Engineering Technology student at SAIT, Calgary. Particular interest in scripting, real-time data capture anv visualization, process and workflow automation and embedded systems. 
 
-Why is Electrical Engineering still delivered pen on paper? What accounts for this technology gap at nominal institutes of technology?
-
-SAIT EET cirriculum managed as a Git repository. Indexed notes in Markdown, Math in LaTeX, solutions in NumPy and Pandas, visualizations in MatPlotLib and D3 JS, document exporting to .pdf, .xlsx and all Pandoc supported formats.
 
 <!---
 tr-methods/tr-methods is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
